@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/white_concrete",
 		"2": "block/brown_mushroom_block",
-		"3": "custom/akpride",
+		"3": "custom/aklogo",
 		"particle": "block/white_concrete"
 	},
 	"elements": [
