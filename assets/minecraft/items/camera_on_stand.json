@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/camera_on_stand"
+    }
+}
