@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/frozenbaner",
+		"particle": "custom/frozenbaner"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [12, 27, 0.2],
+			"faces": {
+				"north": {"uv": [5.65192, 1.25074, 10.45428, 14.56047], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 4.75516, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 1.00885], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 0.39528], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [6.75, -50.75, 8.5],
+			"scale": [3.87891, 3.55078, 1]
+		}
+	}
+}
