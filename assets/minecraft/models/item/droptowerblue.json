@@ -4,8 +4,7 @@
 	"textures": {
 		"0": "block/cyan_concrete",
 		"1": "block/black_concrete",
-		"2": "block/blue_wool",
-		"particle": "block/cyan_concrete"
+		"2": "block/blue_wool"
 	},
 	"elements": [
 		{
