@@ -1,0 +1,22 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/chittylogo",
+		"particle": "custom/chittylogo"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 20, 0],
+			"faces": {
+				"north": {"uv": [0, 4.10667, 16, 11.84], "texture": "#0"},
+				"east": {"uv": [2, 0, 2, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 3.62667], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 2, 16, 2], "texture": "#0"}
+			}
+		}
+	]
+}
