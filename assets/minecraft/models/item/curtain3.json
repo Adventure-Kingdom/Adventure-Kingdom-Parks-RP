@@ -3,8 +3,7 @@
 	"credit": "Made By CrustyKnees04",
 	"textures": {
 		"0": "block/red_concrete_powder",
-		"1": "block/yellow_concrete_powder",
-		"particle": "block/red_concrete_powder"
+		"1": "block/yellow_concrete_powder"
 	},
 	"elements": [
 		{
