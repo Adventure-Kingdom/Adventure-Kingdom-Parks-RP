@@ -3,8 +3,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/black_concrete",
-		"2": "custom/ToyBox_Productions",
-		"particle": "block/black_concrete"
+		"2": "custom/ToyBox_Productions"
 	},
 	"elements": [
 		{
