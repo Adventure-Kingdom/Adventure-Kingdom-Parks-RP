@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with love by Ruairiw8 <3",
 	"textures": {
-		"0": "trjose",
-		"particle": "trjose"
+		"0": "custom/trjose",
+		"particle": "custom/trjose"
 	},
 	"elements": [
 		{
