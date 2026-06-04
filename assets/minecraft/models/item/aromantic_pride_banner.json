@@ -3,12 +3,7 @@
 	"credit": "Made with love by Ruairiw8 <3",
 	"texture_size": [128, 128],
 	"textures": {
-<<<<<<< HEAD
 		"0": "custom/aromantic_pride_banner"
-=======
-		"0": "aromantic_pride_banner",
-		"particle": "aromantic_pride_banner"
->>>>>>> 14c04fb80a25d60138a603f7f909175c742ba96b
 	},
 	"elements": [
 		{

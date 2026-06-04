@@ -3,8 +3,8 @@
 	"credit": "Made with love by Ruairiw8 <3",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "polysexual_pride_banner",
-		"particle": "polysexual_pride_banner"
+		"0": "custom/polysexual_pride_banner",
+		"particle": "custom/polysexual_pride_banner"
 	},
 	"elements": [
 		{
