@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:item/speedwaylime"
+        "model": "minecraft:item/speedway_lime"
     }
 }
