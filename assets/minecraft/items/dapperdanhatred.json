@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "minecraft:item/dapperdanhatred"
+        "model": "minecraft:item/hats/dapperdanhatred"
     }
 }
