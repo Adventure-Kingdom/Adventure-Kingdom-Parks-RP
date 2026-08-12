@@ -4049,7 +4049,15 @@
 		"head": {
 			"rotation": [0, -90, 0],
 			"translation": [-9, 13.25, 6.25],
-			"scale": [1.39, 1.39, 1.39]
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [-6.75, 3, 4.5]
+		},
+		"on_shelf": {
+			"rotation": [0, 90, 0],
+			"translation": [8.25, 0, 1.5]
 		}
 	}
 }
