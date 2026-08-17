@@ -464,6 +464,9 @@
 		"firstperson_righthand": {
 			"scale": [0.3, 0.3, 0.3]
 		},
+		"ground": {
+			"scale": [0.2, 0.2, 0.2]
+		},
 		"gui": {
 			"rotation": [0, 90, 0],
 			"translation": [0, -1, 0],
